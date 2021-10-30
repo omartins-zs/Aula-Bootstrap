@@ -2,19 +2,11 @@ body {
   font: 20px Arial, sans-serif;
 }
 
-.navbar {
-  background-color: #d5d5d5;
-}
-
-.nav-item {
-  color: white;
-  margin-right: 1rem;
-}
 .quem-somos {
   background-color: #091353;
   color: white;
 }
-#serviços {
+#servicos {
   background-color: #b2f9fc;
 }
 .margin {
@@ -30,4 +22,24 @@ body {
   background-color: #d5d5d5;
   color: #334756;
   padding: 1rem 0 1rem 0;
+}
+#navbarNavAltMarkup {
+  justify-content: right;
+}
+
+.navbar-brand {
+  display: contents;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+#ImageNav {
+  margin-right: 1rem;
+}
+
+.navbar {
+  background-color: #c6c7c8;
 }
