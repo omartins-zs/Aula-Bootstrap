@@ -16,6 +16,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - **[CSS](https://www.w3schools.com/css/)**
 
+
+## Atenção🔴
+
+**No curso foi utilizados exemplos direto do [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)**
+
+
 <hr/>
 
 #### **Utilitários**
