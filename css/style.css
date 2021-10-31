@@ -16,6 +16,7 @@ body {
 .parceiros {
   background-color: #9d84b7;
   color: white;
+  padding: 2rem 2rem 5rem;
 }
 .footer {
   text-align: center;
@@ -42,4 +43,10 @@ body {
 
 .navbar {
   background-color: #c6c7c8;
+}
+.img {
+  border-radius: 20px;
+}
+.marginTitle {
+  margin: 1rem 0 1rem 0;
 }
