@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### **Utilitários**
 
-- **Link do Curso: [Construindo páginas para internet com Bootstrap)](https://digitalinnovation.one/cursos/construindo-paginas-para-internet-com-bootstrap)**
+- **Link do Curso: [Construindo páginas para internet com Bootstrap](https://digitalinnovation.one/cursos/construindo-paginas-para-internet-com-bootstrap)**
 - **Icone Do Bootstrap: [Repositorio devicons/devicon](https://github.com/devicons/devicon/tree/master/icons)**
 - **Editor: [Visual Studio Code](https://code.visualstudio.com/)**
 - **Markdown: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)**
